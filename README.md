@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shashank Kumar Dubey
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently learning Artificial Inelligence and Machine Learning
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on ML projects 
 - 📫 Reach me at shashankdubey3420@gmail.com
 

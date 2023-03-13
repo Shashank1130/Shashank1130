@@ -5,8 +5,9 @@
 - 📫 Reach me at shashankdubey3420@gmail.com
 - I AM GOOD IN:-
 - DSA
-- Data Science
+- Artifcial Intelligence(ANN, CNN, NLP, RNN, LSTM)
 - Machine Learning
+- Data Science
 
 <!---
 Shashank1130/Shashank1130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

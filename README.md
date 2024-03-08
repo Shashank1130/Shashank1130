@@ -1,5 +1,6 @@
 
-![linkedin banner new](https://github.com/Shashank1130/Shashank1130/assets/107529934/96dc4853-43cb-458d-9336-c88010f1293d)
+<img width="611" alt="3" src="https://github.com/Shashank1130/Shashank1130/assets/107529934/9529e7da-c75e-4ffd-bc51-7597184cf0ea">
+
 
 ### :woman_technologist: ABOUT ME:
 

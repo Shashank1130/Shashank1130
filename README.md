@@ -13,22 +13,23 @@
 
 🚀 Programming Languages and Methodologies:
 
-Python
-Data Science
-Machine Learning
-Artificial Intelligence
-Deep Learning
-Convolutional Neural Network (CNN)
-Natural Language Processing (NLP)
-Generative AI
-Large Language Models (LLMs) and LangChain
+- Python
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Deep Learning
+- Convolutional Neural Network (CNN)
+- Natural Language Processing (NLP)
+- Generative AI
+- Large Language Models (LLMs) and LangChain
+
 📊 Data Analysis & Visualization:
 
-PostgreSQL
-Power BI
-Matplotlib
-Seaborn
-Plotly
-Excel
+- PostgreSQL
+- Power BI
+- Matplotlib
+- Seaborn
+- Plotly
+- Excel
 
 

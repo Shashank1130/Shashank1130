@@ -3,30 +3,32 @@
 ### :woman_technologist: ABOUT ME:
 
 
-👀 **I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology from Madhav Institute of Technology and Science, Gwalior.**
+🔍 Love to play with Data and AI.
 
-✨ **Artifcial Intelligence, Data Science, ML, Internet of Things, Open Source fascinate me!** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+📚 I started studying Data Science and Machine Learning because it was a subject in one of my semesters, but, guess what? Data Science, ML, and AI have become my passion now.
 
-🚀 **I am a creative person and so I love solving problems.**
+👋 Hello, I am Shashank Kumar Dubey, a final year student pursuing B. Tech in Information Technology (IoT) at Madhav Institute of Technology and Science (MITS), Gwalior. I am working and learning Data Science, Data Analytics, ML, and AI from the last 2 years and worked on various projects that helped me gain hands-on experience. Some of my projects are Indian Sign Language Recognition, Facial Emotion Recognition, and Traffic Sign Recognition.
 
-🔭 **I love playing games, reading books, and building network!**
+𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬: 𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐀𝐈
 
-🎓 *I am good in:* 
+🚀 Programming Languages and Methodologies:
 
-**Artificial Intelligence (ANN, CNN, NLP, RNN, GANs)**
+Python
+Data Science
+Machine Learning
+Artificial Intelligence
+Deep Learning
+Convolutional Neural Network (CNN)
+Natural Language Processing (NLP)
+Generative AI
+Large Language Models (LLMs) and LangChain
+📊 Data Analysis & Visualization:
 
-**Machine Learning**
-
-**Data Science**
-
-**Data Structures and Algorithms**
-
-**Python, C++, C & PostgreSQL** 💻
-
-**DBMS, OS, Computer Networks**
-
-**Problem Solving** 🧠
-
-**Git & GitHub** 
+PostgreSQL
+Power BI
+Matplotlib
+Seaborn
+Plotly
+Excel
 
 

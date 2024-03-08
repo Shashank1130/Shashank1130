@@ -1,8 +1,7 @@
 
-<img width="611" alt="3" src="https://github.com/Shashank1130/Shashank1130/assets/107529934/9529e7da-c75e-4ffd-bc51-7597184cf0ea">
-
-
+![GitHub](https://github.com/Shashank1130/Shashank1130/assets/107529934/399e2d77-1267-48cc-b23f-bc15ee052735)
 ### :woman_technologist: ABOUT ME:
+
 
 👀 **I’m an undergraduate engineering student, pursuing my B.Tech in Information Technology from Madhav Institute of Technology and Science, Gwalior.**
 

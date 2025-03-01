@@ -7,7 +7,7 @@
 
 📚 I started studying Data Science and Machine Learning because it was a subject in one of my semesters, but, guess what? Data Science, ML, and AI have become my passion now.
 
-👋 Hello, I am Shashank Kumar Dubey, a final year student pursuing B. Tech in Information Technology (IoT) at Madhav Institute of Technology and Science (MITS), Gwalior. I am working and learning Data Science, Data Analytics, ML, and AI from the last 2 years and worked on various projects that helped me gain hands-on experience. Some of my projects are Indian Sign Language Recognition, Facial Emotion Recognition, and Traffic Sign Recognition.
+👋 Hello, I am Shashank Kumar Dubey, currently working as a Data Scientist. I specialize in Data Science, Machine Learning, AI, and Generative AI, with hands-on experience in Python, LLMs, LangChain, Advance RAG Architecture, AI Agents and more. I have worked on projects like Conversational Chatbots, Market Research Agents, and Fine-tuning Open-Source and Closed-Source LLMs.
 
 𝐓𝐞𝐜𝐡 𝐒𝐤𝐢𝐥𝐥𝐬: 𝐏𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐚𝐧𝐝 𝐀𝐈
 
@@ -18,18 +18,12 @@
 - Machine Learning
 - Artificial Intelligence
 - Deep Learning
-- Convolutional Neural Network (CNN)
-- Natural Language Processing (NLP)
 - Generative AI
-- Large Language Models (LLMs) and LangChain
-
-📊 Data Analysis & Visualization:
-
-- PostgreSQL
-- Power BI
-- Matplotlib
-- Seaborn
-- Plotly
-- Excel
+- Large Language Models
+- LangChain
+- Retrieval Augmented Generation (RAG)
+- AI Agents
+- Natural Language Processing (NLP)
+- Convolutional Neural Network (CNN)
 
 
